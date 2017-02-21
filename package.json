@@ -1,6 +1,8 @@
 {
+  "name": "js-is-flow",
+    "displayName": "JS is  Flow overwrite",
+    "description": "Overwrites the file mapping of java script files so that they are treated like flow files",
   "version": "1.0.0",
-  "description": "A simple instant message client built for a CoderFactory blog article",
   "main": "",
   "scripts": {
     "start": "node server.js --env=dev",

@@ -1,6 +1,7 @@
 .container {
   display: flex;
   flex-direction: column;
+  
 }
 
 .messages {
@@ -44,6 +45,7 @@ h3 {
 .message.from-me .message-body {
   background-color: #af9570;
   color: white;
+
 }
 
 .message {
